@@ -9,4 +9,4 @@ This is the Horiseon website. The client wanted a codebase that follows accessib
 # Deployed Site
 
 Here's the site:
-[Deployed Site]("https://jdinh3.github.io/Refactor-Homework/")
+["https://jdinh3.github.io/Refactor-Homework/"]
