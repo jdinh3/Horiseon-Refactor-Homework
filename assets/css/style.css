@@ -10,6 +10,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Header Styles */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -27,6 +28,7 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+/* Navbar Styles */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -59,6 +61,7 @@ p {
   font-size: 16px;
 }
 
+/* Footer Styles */
 footer {
   padding: 30px;
   clear: both;
